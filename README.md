@@ -1,6 +1,6 @@
-### Hi There 👋
+## Hi There 👋
 
-## I'm Patryk - aka [the-worst.dev][website] 🤣 | Rogaliusz ! 
+### I'm Patryk - aka [the-worst.dev][website] 🤣 | Rogaliusz ! 
 
 - 🔭 I’m currently working on a [cadar.it][website]!
 - 🌱 I’m currently learning everything 🤣 
