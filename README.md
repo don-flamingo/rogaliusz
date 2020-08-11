@@ -8,14 +8,6 @@
 - 💽 Own product from scratch based on microservices architecure [cadar.it][website]!
 - 🎓 Course for gRPC | .Net Core | Microservices.
 
-### Connect with me:
-
-[<img align="left" alt="the-worst.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="rogaliusz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="atryk-roguszewski-b9433815a | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
-
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
@@ -34,5 +26,11 @@
 
 <img align="right" alt="Patryk Roguszewski Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=rogaliusz&show_icons=true&hide_border=true" />
 
-[website]: https://the-worst.dev
-[linkedin]: https://www.linkedin.com/in/patryk-roguszewski-b9433815a/
+### Connect with me:
+
+[<img align="left" alt="the-worst.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="rogaliusz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="atryk-roguszewski-b9433815a | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+
