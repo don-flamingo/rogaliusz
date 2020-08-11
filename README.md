@@ -1,4 +1,4 @@
-## Hi There 👋
+## 👋 Hi There 
 
 ### I'm Patryk - aka [the-worst.dev][website] 🤣 | Rogaliusz ! 
 
