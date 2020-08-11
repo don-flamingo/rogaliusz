@@ -5,8 +5,8 @@
 - 🔭 I’m currently working on a [cadar.it][website]!
 - 🌱 I’m currently learning everything 🤣 
 - 🥅 2020 Goals:
-- Create own product from scratch based on microservice architecure [cadar.it][website]!
-- 📕 Create some course for gRPC | .Net Core | Microservices.
+  - 💽 Own product from scratch based on microservices architecure [cadar.it][website]!
+  - 🎓 Course for gRPC | .Net Core | Microservices.
 
 ### Connect with me:
 
