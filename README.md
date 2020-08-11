@@ -5,8 +5,8 @@
 - 🔭 I’m currently working on a [cadar.it][website]!
 - 🌱 I’m currently learning everything 🤣 
 - 🥅 2020 Goals:
-  - 💽 Own product from scratch based on microservices architecure [cadar.it][website]!
-  - 🎓 Course for gRPC | .Net Core | Microservices.
+- 💽 Own product from scratch based on microservices architecure [cadar.it][website]!
+- 🎓 Course for gRPC | .Net Core | Microservices.
 
 ### Connect with me:
 
@@ -32,7 +32,7 @@
 
 ---
 
-<img align="left" alt="Patryk Roguszewski Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=rogaliusz&show_icons=true&hide_border=true" />
+<img align="right" alt="Patryk Roguszewski Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=rogaliusz&show_icons=true&hide_border=true" />
 
 [website]: https://the-worst.dev
 [linkedin]: https://www.linkedin.com/in/patryk-roguszewski-b9433815a/
