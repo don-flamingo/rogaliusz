@@ -8,18 +8,25 @@
 - 💽 Own product from scratch based on microservices architecure [cadar.it][website]!
 - 🎓 Course for gRPC | .Net Core | Microservices.
 
-📊 **This week I spent my time on**
+**📐 Languages and Tools:**
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Rider" width="26px" src="https://raw.githubusercontent.com/0install/0install.de-feeds/master/Rider.ico" />
+<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/0install/0install.de-feeds/master/pgAdmin3.ico" />
+<img align="left" alt="SQL" width="26px" src="https://issues.streamsets.com/secure/attachment/14575/sql-server.png" />
+<img align="left" alt=".Net Core" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/512px-.NET_Core_Logo.svg.png" />
+<img align="left" alt="Angular" width="26px" src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg" />
+<img align="left" alt="Dart" width="26px" src="https://www.fluttericon.com/logo_dart_192px.svg" />
+
+---
+
+📊 **This week I spent my time on:**
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 ---
 
-**📐 Languages and Tools:**
-
-
----
-
-**📕 Latest Blog Posts**
+**📕 Latest Blog Posts:**
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
