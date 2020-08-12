@@ -17,7 +17,6 @@
 **📐 Languages and Tools:**
 
 
-
 ---
 
 **📕 Latest Blog Posts**
