@@ -26,7 +26,6 @@
 
 ---
 
-**📊 Stats**
 <img align="left" alt="Patryk Roguszewski Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=rogaliusz&show_icons=true&hide_border=true" />
 
 
