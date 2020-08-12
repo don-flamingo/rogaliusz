@@ -12,6 +12,8 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+---
+
 **📐 Languages and Tools:**
 
 
@@ -24,10 +26,13 @@
 
 ---
 
+
+<img align="right" alt="Patryk Roguszewski Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=rogaliusz&show_icons=true&hide_border=true" />
+
+---
+
+
 **Connect with me**
 
 [<img align="left" alt="the-worst.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://the-worst.dev)
 [<img align="left" alt="atryk-roguszewski-b9433815a | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/patryk-roguszewski-b9433815a/)
-
-
-<img align="right" alt="Patryk Roguszewski Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=rogaliusz&show_icons=true&hide_border=true" />
