@@ -1,10 +1,11 @@
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there 
 
-**I'm Patryk - aka [the-worst](https://the-worst.dev) 🤣 | Rogaliusz !**
+**💁 I'm Patryk - aka [the-worst](https://the-worst.dev) 🤣 | Rogaliusz !**
 
 - 🔭 I’m currently working on a [cadar.app](https://panel.cadar.it)!
 - 🌱 I’m currently learning everything 🤣 
-- 🥅 2020 Goals:
+
+**🥅 2020 Goals:**
 - 💽 Own product from scratch based on microservices architecure [cadar.app](https://panel.cadar.it)!
 - 🎓 Course for gRPC | .Net Core | Microservices.
 
