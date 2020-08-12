@@ -2,12 +2,15 @@
 
 **💁 I'm Patryk - aka [the-worst](https://the-worst.dev) 🤣 | Rogaliusz !**
 
-- 🔭 I’m currently working on a [cadar.app](https://panel.cadar.it)!
-- 🌱 I’m currently learning everything 🤣 
+- 🔭 Eternal student of life | seeker of truth
+- 😍 New technologies | trends follower
+- 🔉 Big fan of good music 
 
 **🥅 2020 Goals:**
 - 💽 Own product from scratch based on microservices architecure [cadar.app](https://panel.cadar.it)!
 - 🎓 Course for gRPC | .Net Core | Microservices.
+
+---
 
 **📐 Languages and Tools:**
 
