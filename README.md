@@ -57,6 +57,7 @@ SQL     6 mins          ░░░░░░░░░░░░░░░░░░�
 
 **📕 Latest Blog Posts:**
 <!-- BLOG-POST-LIST:START -->
+- [Entity Framework Core with PostgreSQL – base configuration.](https://the-worst.dev/entity-framework-core-with-postgresql-base-configuration/)
 - [Not always IDE tip and modern functions work very well – await using EntityFramework story.](https://the-worst.dev/not-always-ide-tip-and-modern-functions-works-very-well-await-using-entityframework-story/)
 - [Azure DevOps + CI / CD + docker.](https://the-worst.dev/azure-devops-ci-cd-docker/)
 - [How to easily deploy applications with free https in docker containers.](https://the-worst.dev/how-to-easily-deploy-application-with-free-https-support-to-docker-containers-2/)
