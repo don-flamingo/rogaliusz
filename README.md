@@ -59,6 +59,7 @@ Other        23 mins         ▓░░░░░░░░░░░░░░░░
 
 **📕 Latest Blog Posts:**
 <!-- BLOG-POST-LIST:START -->
+- [Entity Framework Core & PostgreSQL – differences from the perspective of using Microsoft SQL Server.](https://the-worst.dev/entity-framework-core-postgresql-differences-from-the-perspective-of-using-microsoft-sql-server/)
 - [Entity Framework Core & PostgreSQL – base configuration.](https://the-worst.dev/entity-framework-core-with-postgresql-base-configuration/)
 - [Not always IDE tip and modern functions work very well – await using EntityFramework story.](https://the-worst.dev/not-always-ide-tip-and-modern-functions-works-very-well-await-using-entityframework-story/)
 - [Azure DevOps + CI / CD + docker.](https://the-worst.dev/azure-devops-ci-cd-docker/)
