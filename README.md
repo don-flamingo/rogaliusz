@@ -59,11 +59,11 @@ JSON         28 mins         ▒░░░░░░░░░░░░░░░░
 
 **📕 Latest Blog Posts:**
 <!-- BLOG-POST-LIST:START -->
+- [Azure AD authentication for Angular & .Net core backend](https://the-worst.dev/azure-ad-authentication-for-angular-net-core-backend/)
 - [Rest vs gRPC – performance benchmark in .Net Core 3.1 – Azure](https://the-worst.dev/rest-vs-grpc-performance-benchmark-in-net-core-3-1-azure/)
 - [How to handle gRPC errors in .Net Core](https://the-worst.dev/how-to-handle-grpc-errors-in-net-core/)
 - [Rest vs gRPC – performance benchmark in .Net Core 3.1](https://the-worst.dev/rest-vs-grpc-performance-benchmark-in-net-core-3-1/)
 - [Entity Framework Core & PostgreSQL – differences from the perspective of using Microsoft SQL Server](https://the-worst.dev/entity-framework-core-postgresql-differences-from-the-perspective-of-using-microsoft-sql-server/)
-- [Entity Framework Core & PostgreSQL – base configuration](https://the-worst.dev/entity-framework-core-with-postgresql-base-configuration/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
