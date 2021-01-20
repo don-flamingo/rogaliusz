@@ -6,8 +6,8 @@
 - 😍 New technologies | trends follower
 - 🔉 Big fan of good music 
 
-**🥅 2020 Goals:**
-- 💽 Own product from scratch based on microservices architecure [cadar.app](https://panel.cadar.it)!
+**🥅 2021 Goals:**
+- 💽 Own product from scratch dedicated for e-learning solutions (lms).
 - 🎓 Course for gRPC | .Net Core | Microservices.
 
 ---
