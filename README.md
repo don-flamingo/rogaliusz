@@ -14,7 +14,7 @@ Check me 🙈
 ***👥 Social***
 
 https://the-worst.dev/ - My personal blog about devs world,  
-https://twitter.com/donflamingonft - NFTs, Cryptocurrencies social accouns.  
+https://twitter.com/donflamingonft - NFTs, Cryptocurrencies social account.  
 
 ***🌌 Projects***
 
