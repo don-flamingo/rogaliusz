@@ -1,6 +1,6 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there 
 
-**💁 I'm Patryk - aka [the-worst](https://the-worst.dev) 🤣 | Rogaliusz | 🦩 Don Flamingo 🦩 !**
+**💁 I'm Patryk - aka [the-worst](https://the-worst.dev) 🤣 | 🦩 Don Flamingo 🦩 !**
 
 - 🔭 Eternal student of life | seeker of truth
 - 😍 New technologies | trends follower
