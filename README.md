@@ -1,14 +1,27 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there 
 
-**💁 I'm Patryk - aka [the-worst](https://the-worst.dev) 🤣 | Rogaliusz !**
+**💁 I'm Patryk - aka [the-worst](https://the-worst.dev) 🤣 | Rogaliusz | 🦩 Don Flamingo 🦩 !**
 
 - 🔭 Eternal student of life | seeker of truth
 - 😍 New technologies | trends follower
 - 🔉 Big fan of good music 
+- 💸 Smart contracts lover
 
-**🥅 2021 Goals:**
-- 💽 Own product from scratch dedicated for e-learning solutions (lms).
-- 🎓 Course for gRPC | .Net Core | Microservices.
+**🔗 Links**
+
+Check me 🙈
+
+***👥 Social***
+
+https://the-worst.dev/ - My personal blog about devs world,
+https://twitter.com/donflamingonft - NFTs, Cryptocurrencies social accouns.
+
+***🌌 Projects***
+
+https://flamingopunks.com/ - Polygon NFT Flamingo Wars game,
+https://flamingomafiafamily.com/ - 10,101 Unique Flamingo Mafia avatars,
+https://etherroyale.io/ - Ethereum based NFT game,
+https://the-worst.dev/portfolio/ - Archived stuff.
 
 ---
 
@@ -36,22 +49,9 @@
 <img align="left" alt="Android" width="26px" src="https://image.flaticon.com/icons/png/512/174/174836.png" />
 
 
-
-
-
 <br />
 <br />
 
----
-
-📊 **This week I spent my time on:**
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
-
----
 
 **📕 Latest Blog Posts:**
 <!-- BLOG-POST-LIST:START -->
