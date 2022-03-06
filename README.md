@@ -13,15 +13,15 @@ Check me 🙈
 
 ***👥 Social***
 
-https://the-worst.dev/ - My personal blog about devs world,
-https://twitter.com/donflamingonft - NFTs, Cryptocurrencies social accouns.
+https://the-worst.dev/ - My personal blog about devs world,  
+https://twitter.com/donflamingonft - NFTs, Cryptocurrencies social accouns.  
 
 ***🌌 Projects***
 
-https://flamingopunks.com/ - Polygon NFT Flamingo Wars game,
-https://flamingomafiafamily.com/ - 10,101 Unique Flamingo Mafia avatars,
-https://etherroyale.io/ - Ethereum based NFT game,
-https://the-worst.dev/portfolio/ - Archived stuff.
+https://flamingopunks.com/ - Polygon NFT Flamingo Wars game,  
+https://flamingomafiafamily.com/ - 10,101 Unique Flamingo Mafia avatars,  
+https://etherroyale.io/ - Ethereum based NFT game,  
+https://the-worst.dev/portfolio/ - Archived stuff.  
 
 ---
 
