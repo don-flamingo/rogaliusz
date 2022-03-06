@@ -35,14 +35,12 @@ https://the-worst.dev/portfolio/ - Archived stuff.
 <img align="left" alt="SQL Server" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Dart" width="26px" src="https://www.fluttericon.com/logo_dart_192px.svg" />
 <img align="left" alt="TypeScript" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" />
-<img align="left" alt="C#" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/1200px-C_Sharp_logo.svg.png" />
 
 <img align="left" alt="Flutter" width="26px" src="https://strattonapps.com/wp-content/uploads/2020/02/flutter-logo-5086DD11C5-seeklogo.com_.png" />
 <img align="left" alt=".Net Core" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/512px-.NET_Core_Logo.svg.png" />
 <img align="left" alt="Angular" width="26px" src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg" />
 <img align="left" alt="Xamarin" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/xamarin-282427.png" />
 
-<img align="left" alt="Azure" width="26px" src="https://image.flaticon.com/icons/png/512/873/873107.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Docker" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/97_Docker-512.png" />
