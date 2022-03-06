@@ -62,9 +62,6 @@ https://the-worst.dev/portfolio/ - Archived stuff.
 
 ---
 
-<img align="left" alt="Patryk Roguszewski Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=rogaliusz&show_icons=true&hide_border=true" />
-
-
 **Connect with me**
 [<img align="right" alt="the-worst.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://the-worst.dev)
 [<img align="right" alt="atryk-roguszewski-b9433815a | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/patryk-roguszewski-b9433815a/)
