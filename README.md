@@ -2,10 +2,10 @@
 
 **💁 I'm Patryk - aka [the-worst](https://the-worst.dev) 🤣 | 🦩 Don Flamingo 🦩 !**
 
-- 🔭 Eternal student of life | seeker of truth
-- 😍 New technologies | trends follower
-- 🔉 Big fan of good music 
-- 💸 Smart contracts lover
+- 🔭 Eternal student of life | seeker of truth,
+- 😍 New technologies | trends follower,
+- 🔉 Big fan of good music,
+- 💸 Smart contracts lover.
 
 **🔗 Links**
 
